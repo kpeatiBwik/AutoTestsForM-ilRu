@@ -1,0 +1,2 @@
+# AutoTestsForMailRu
+java + testNG
