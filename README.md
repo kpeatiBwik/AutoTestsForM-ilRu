@@ -1,2 +1,2 @@
-# AutoTestsForMailRu
-java + testNG
+# AutoTestsForM#ilRu
+java + selenium + testNG
